@@ -1,6 +1,5 @@
 # lets-dig-in
-#Lorem ispum
-안녕하세요
+미디어 믹스 지식그래프 
 
 ## Code
 
